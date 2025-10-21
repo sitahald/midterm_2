@@ -11,7 +11,7 @@ package git.midterm2;
 public class Midterm2 {
 
     public static void main(String[] args) {
-        System.out.println("final");
+        System.out.println("you got it");
              
 
     }
